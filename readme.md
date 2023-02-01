@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">Django Note App</h2>
+<h2 align="center">Django Note App</h2>
 Preview of the application
 
 ![App photo](app-pic.png)
