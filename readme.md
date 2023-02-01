@@ -1,5 +1,4 @@
-### Django Notes app
-<hr/>
+<h2 style="text-align: center;">Django Note App</h2>
 Preview of the application
 
 ![App photo](app-pic.png)
